@@ -1,0 +1,14 @@
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\bin\Debug\net8.0\FistDegree.exe
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\bin\Debug\net8.0\FistDegree.deps.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\bin\Debug\net8.0\FistDegree.runtimeconfig.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\bin\Debug\net8.0\FistDegree.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\bin\Debug\net8.0\FistDegree.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\obj\Debug\net8.0\FistDegree.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\obj\Debug\net8.0\FistDegree.AssemblyInfoInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\obj\Debug\net8.0\FistDegree.AssemblyInfo.cs
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\obj\Debug\net8.0\FistDegree.csproj.CoreCompileInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\obj\Debug\net8.0\FistDegree.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\obj\Debug\net8.0\refint\FistDegree.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\obj\Debug\net8.0\FistDegree.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\obj\Debug\net8.0\FistDegree.genruntimeconfig.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\FistDegree\obj\Debug\net8.0\ref\FistDegree.dll
