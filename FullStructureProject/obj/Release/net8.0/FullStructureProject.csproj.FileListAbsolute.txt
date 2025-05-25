@@ -1,0 +1,14 @@
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\bin\Release\net8.0\FullStructureProject.exe
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\bin\Release\net8.0\FullStructureProject.deps.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\bin\Release\net8.0\FullStructureProject.runtimeconfig.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\bin\Release\net8.0\FullStructureProject.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\bin\Release\net8.0\FullStructureProject.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\obj\Release\net8.0\FullStructureProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\obj\Release\net8.0\FullStructureProject.AssemblyInfoInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\obj\Release\net8.0\FullStructureProject.AssemblyInfo.cs
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\obj\Release\net8.0\FullStructureProject.csproj.CoreCompileInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\obj\Release\net8.0\FullStructureProject.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\obj\Release\net8.0\refint\FullStructureProject.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\obj\Release\net8.0\FullStructureProject.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\obj\Release\net8.0\FullStructureProject.genruntimeconfig.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\FullStructureProject\obj\Release\net8.0\ref\FullStructureProject.dll

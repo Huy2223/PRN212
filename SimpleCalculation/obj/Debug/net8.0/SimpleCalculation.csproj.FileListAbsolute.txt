@@ -1,0 +1,14 @@
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\bin\Debug\net8.0\SimpleCalculation.exe
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\bin\Debug\net8.0\SimpleCalculation.deps.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\bin\Debug\net8.0\SimpleCalculation.runtimeconfig.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\bin\Debug\net8.0\SimpleCalculation.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\bin\Debug\net8.0\SimpleCalculation.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.AssemblyInfoInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.AssemblyInfo.cs
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.csproj.CoreCompileInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\obj\Debug\net8.0\refint\SimpleCalculation.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.genruntimeconfig.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\SimpleCalculation\obj\Debug\net8.0\ref\SimpleCalculation.dll

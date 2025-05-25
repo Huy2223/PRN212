@@ -1,0 +1,14 @@
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\bin\Debug\net8.0\CallByReference.exe
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\bin\Debug\net8.0\CallByReference.deps.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\bin\Debug\net8.0\CallByReference.runtimeconfig.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\bin\Debug\net8.0\CallByReference.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\bin\Debug\net8.0\CallByReference.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\obj\Debug\net8.0\CallByReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\obj\Debug\net8.0\CallByReference.AssemblyInfoInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\obj\Debug\net8.0\CallByReference.AssemblyInfo.cs
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\obj\Debug\net8.0\CallByReference.csproj.CoreCompileInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\obj\Debug\net8.0\CallByReference.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\obj\Debug\net8.0\refint\CallByReference.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\obj\Debug\net8.0\CallByReference.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\obj\Debug\net8.0\CallByReference.genruntimeconfig.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\CallByReference\obj\Debug\net8.0\ref\CallByReference.dll

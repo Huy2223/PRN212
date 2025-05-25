@@ -1,0 +1,14 @@
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\bin\Debug\net8.0\QuadricEquation.exe
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\bin\Debug\net8.0\QuadricEquation.deps.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\bin\Debug\net8.0\QuadricEquation.runtimeconfig.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\bin\Debug\net8.0\QuadricEquation.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\bin\Debug\net8.0\QuadricEquation.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\obj\Debug\net8.0\QuadricEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\obj\Debug\net8.0\QuadricEquation.AssemblyInfoInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\obj\Debug\net8.0\QuadricEquation.AssemblyInfo.cs
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\obj\Debug\net8.0\QuadricEquation.csproj.CoreCompileInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\obj\Debug\net8.0\QuadricEquation.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\obj\Debug\net8.0\refint\QuadricEquation.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\obj\Debug\net8.0\QuadricEquation.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\obj\Debug\net8.0\QuadricEquation.genruntimeconfig.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\QuadricEquation\obj\Debug\net8.0\ref\QuadricEquation.dll

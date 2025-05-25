@@ -1,0 +1,14 @@
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\bin\Debug\net8.0\TryParseVaLoop.exe
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\bin\Debug\net8.0\TryParseVaLoop.deps.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\bin\Debug\net8.0\TryParseVaLoop.runtimeconfig.json
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\bin\Debug\net8.0\TryParseVaLoop.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\bin\Debug\net8.0\TryParseVaLoop.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\obj\Debug\net8.0\TryParseVaLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\obj\Debug\net8.0\TryParseVaLoop.AssemblyInfoInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\obj\Debug\net8.0\TryParseVaLoop.AssemblyInfo.cs
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\obj\Debug\net8.0\TryParseVaLoop.csproj.CoreCompileInputs.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\obj\Debug\net8.0\TryParseVaLoop.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\obj\Debug\net8.0\refint\TryParseVaLoop.dll
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\obj\Debug\net8.0\TryParseVaLoop.pdb
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\obj\Debug\net8.0\TryParseVaLoop.genruntimeconfig.cache
+D:\FPTU\SU25\.Net\PRN212_SE1855\TryParseVaLoop\obj\Debug\net8.0\ref\TryParseVaLoop.dll

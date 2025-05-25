@@ -1,0 +1,14 @@
+﻿using System.Text;
+Console.OutputEncoding = System.Text.Encoding.UTF8;
+string ho = "Nguyen";
+string tenLot = "Thi";
+string ten = "Teo";
+string fullName = ho + " " + tenLot + " " + ten;
+Console.WriteLine(fullName);
+StringBuilder sb = new StringBuilder();
+sb.Append(ho);
+sb.Append(" ");
+sb.Append(tenLot);
+sb.Append(" ");
+sb.Append(ten);
+Console.WriteLine(sb.ToString());
