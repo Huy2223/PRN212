@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B72CEA27-60D1-4154-AD9B-7CC2979875EA}|OOP1\\OOP1.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\oop1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B72CEA27-60D1-4154-AD9B-7CC2979875EA}|OOP1\\OOP1.csproj|solutionrelative:oop1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C78A005-BA08-46C4-9C85-394943E9EAAE}|OOP2\\OOP2.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\oop2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C78A005-BA08-46C4-9C85-394943E9EAAE}|OOP2\\OOP2.csproj|solutionrelative:oop2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B72CEA27-60D1-4154-AD9B-7CC2979875EA}|OOP1\\OOP1.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B72CEA27-60D1-4154-AD9B-7CC2979875EA}|OOP1\\OOP1.csproj|solutionrelative:oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B72CEA27-60D1-4154-AD9B-7CC2979875EA}|OOP1\\OOP1.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B72CEA27-60D1-4154-AD9B-7CC2979875EA}|OOP1\\OOP1.csproj|solutionrelative:oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B72CEA27-60D1-4154-AD9B-7CC2979875EA}|OOP1\\OOP1.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\oop1\\oop1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B72CEA27-60D1-4154-AD9B-7CC2979875EA}|OOP1\\OOP1.csproj|solutionrelative:oop1\\oop1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB914869-75D2-4DAE-9705-017360B8054E}|NestedLoop\\NestedLoop.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\nestedloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB914869-75D2-4DAE-9705-017360B8054E}|NestedLoop\\NestedLoop.csproj|solutionrelative:nestedloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42740124-4438-4ABC-A907-E88E2AB98853}|SortArray\\SortArray.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\sortarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42740124-4438-4ABC-A907-E88E2AB98853}|SortArray\\SortArray.csproj|solutionrelative:sortarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{164D194F-07A5-4ACD-9588-24214474EE09}|TupleSample\\TupleSample.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\tuplesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{164D194F-07A5-4ACD-9588-24214474EE09}|TupleSample\\TupleSample.csproj|solutionrelative:tuplesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B159C6-F403-4B70-9720-62C16AB1E975}|StaticVsNonstatic\\StaticVsNonstatic.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\staticvsnonstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B159C6-F403-4B70-9720-62C16AB1E975}|StaticVsNonstatic\\StaticVsNonstatic.csproj|solutionrelative:staticvsnonstatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FE3DBFB-52E3-4555-9820-539EA5F5D6F0}|ParamForArray\\ParamForArray.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\paramforarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FE3DBFB-52E3-4555-9820-539EA5F5D6F0}|ParamForArray\\ParamForArray.csproj|solutionrelative:paramforarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7CCE132-D30B-4C1D-A8C1-953C69856BD7}|TryParseVaLoop\\TryParseVaLoop.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\tryparsevaloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7CCE132-D30B-4C1D-A8C1-953C69856BD7}|TryParseVaLoop\\TryParseVaLoop.csproj|solutionrelative:tryparsevaloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81A9FEE1-58A2-497A-81E6-A60266EB7EC4}|OOP4\\OOP4.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\oop4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A9FEE1-58A2-497A-81E6-A60266EB7EC4}|OOP4\\OOP4.csproj|solutionrelative:oop4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,131 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OOP1",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP1\\OOP1.csproj",
-              "RelativeDocumentMoniker": "OOP1\\OOP1.csproj",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP1\\OOP1.csproj",
-              "RelativeToolTip": "OOP1\\OOP1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-25T07:36:10.54Z",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP2\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP2\\Employee.cs",
+              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP2\\Employee.cs",
+              "RelativeToolTip": "OOP2\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwBQAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:36:47.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP1\\Employee.cs",
-              "RelativeDocumentMoniker": "OOP1\\Employee.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP1\\Employee.cs",
-              "RelativeToolTip": "OOP1\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAASAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP4\\Program.cs",
+              "RelativeDocumentMoniker": "OOP4\\Program.cs",
+              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP4\\Program.cs",
+              "RelativeToolTip": "OOP4\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAcwG8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T03:43:25.146Z",
+              "WhenOpened": "2025-05-30T11:28:35.916Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP1\\Category.cs",
-              "RelativeDocumentMoniker": "OOP1\\Category.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP1\\Category.cs",
-              "RelativeToolTip": "OOP1\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T03:35:37.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP1\\Program.cs",
-              "RelativeDocumentMoniker": "OOP1\\Program.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\OOP1\\Program.cs",
-              "RelativeToolTip": "OOP1\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T03:33:53.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\NestedLoop\\Program.cs",
-              "RelativeDocumentMoniker": "NestedLoop\\Program.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\NestedLoop\\Program.cs",
-              "RelativeToolTip": "NestedLoop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T04:33:45.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\SortArray\\Program.cs",
-              "RelativeDocumentMoniker": "SortArray\\Program.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\SortArray\\Program.cs",
-              "RelativeToolTip": "SortArray\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:59:21.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\TupleSample\\Program.cs",
-              "RelativeDocumentMoniker": "TupleSample\\Program.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\TupleSample\\Program.cs",
-              "RelativeToolTip": "TupleSample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:49:59.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\StaticVsNonstatic\\Program.cs",
-              "RelativeDocumentMoniker": "StaticVsNonstatic\\Program.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\StaticVsNonstatic\\Program.cs",
-              "RelativeToolTip": "StaticVsNonstatic\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:43:26.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ParamForArray\\Program.cs",
-              "RelativeDocumentMoniker": "ParamForArray\\Program.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ParamForArray\\Program.cs",
-              "RelativeToolTip": "ParamForArray\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:32:52.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\TryParseVaLoop\\Program.cs",
-              "RelativeDocumentMoniker": "TryParseVaLoop\\Program.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\TryParseVaLoop\\Program.cs",
-              "RelativeToolTip": "TryParseVaLoop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:14:22.052Z"
             }
           ]
         }
