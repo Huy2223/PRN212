@@ -50,7 +50,6 @@ namespace OOP5_Dictionary
         //Sap xep san pham theo don gia tang dan
         public Dictionary<int, Product> SortProductByPrice()
         {
-
             return Products.OrderBy(item => item.Value.Price).ToDictionary<int, Product>();
         }
 
@@ -70,16 +69,13 @@ namespace OOP5_Dictionary
                 return false;
             }
             Products[p.Id] = p; // đè dữ liệu ô nhớ hiện tại
-
             return true;
-
         }
 
         public bool RemoveProduct(int id)
         {
             if (Products.ContainsKey(id) == false)
             {
-
                 return false;
             }
             Products.Remove(id);
