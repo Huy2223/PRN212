@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA6A8A94-72DA-4554-821F-34A2FA30F607}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EA6A8A94-72DA-4554-821F-34A2FA30F607}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{85F922D7-8153-43E9-86C5-A37E51294E65}|CheckBoxControllerEvent\\CheckBoxControllerEvent.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\checkboxcontrollerevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{85F922D7-8153-43E9-86C5-A37E51294E65}|CheckBoxControllerEvent\\CheckBoxControllerEvent.csproj|solutionrelative:checkboxcontrollerevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA6A8A94-72DA-4554-821F-34A2FA30F607}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA6A8A94-72DA-4554-821F-34A2FA30F607}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA6A8A94-72DA-4554-821F-34A2FA30F607}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\buttoncontrol_tonghop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA6A8A94-72DA-4554-821F-34A2FA30F607}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA6A8A94-72DA-4554-821F-34A2FA30F607}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\buttoncontrol_tonghop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EA6A8A94-72DA-4554-821F-34A2FA30F607}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F30AED-1C03-43A9-A9C8-23EE1E7EE454}|HelloWpfApp\\HelloWpfApp.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\hellowpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F30AED-1C03-43A9-A9C8-23EE1E7EE454}|HelloWpfApp\\HelloWpfApp.csproj|solutionrelative:hellowpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F30AED-1C03-43A9-A9C8-23EE1E7EE454}|HelloWpfApp\\HelloWpfApp.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\hellowpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{91F30AED-1C03-43A9-A9C8-23EE1E7EE454}|HelloWpfApp\\HelloWpfApp.csproj|solutionrelative:hellowpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F30AED-1C03-43A9-A9C8-23EE1E7EE454}|HelloWpfApp\\HelloWpfApp.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\hellowpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{91F30AED-1C03-43A9-A9C8-23EE1E7EE454}|HelloWpfApp\\HelloWpfApp.csproj|solutionrelative:hellowpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{85F922D7-8153-43E9-86C5-A37E51294E65}|CheckBoxControllerEvent\\CheckBoxControllerEvent.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\checkboxcontrollerevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F922D7-8153-43E9-86C5-A37E51294E65}|CheckBoxControllerEvent\\CheckBoxControllerEvent.csproj|solutionrelative:checkboxcontrollerevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -66,89 +50,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ButtonControl_TongHop\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\AssemblyInfo.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ButtonControl_TongHop\\AssemblyInfo.cs",
-              "RelativeToolTip": "ButtonControl_TongHop\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T04:16:26.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ButtonControl_TongHop\\App.xaml",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\App.xaml",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ButtonControl_TongHop\\App.xaml",
-              "RelativeToolTip": "ButtonControl_TongHop\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T04:16:24.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
-              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\CheckBoxControllerEvent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CheckBoxControllerEvent\\MainWindow.xaml",
+              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\CheckBoxControllerEvent\\MainWindow.xaml",
+              "RelativeToolTip": "CheckBoxControllerEvent\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T04:08:37.558Z",
+              "WhenOpened": "2025-06-17T03:17:14.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\CheckBoxControllerEvent\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CheckBoxControllerEvent\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\CheckBoxControllerEvent\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CheckBoxControllerEvent\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T04:08:37.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\HelloWpfApp\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HelloWpfApp\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\HelloWpfApp\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "HelloWpfApp\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAEwDMAAACLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T03:27:07.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\HelloWpfApp\\App.xaml",
-              "RelativeDocumentMoniker": "HelloWpfApp\\App.xaml",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\HelloWpfApp\\App.xaml",
-              "RelativeToolTip": "HelloWpfApp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T03:24:49.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\HelloWpfApp\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "HelloWpfApp\\LoginWindow.xaml",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\HelloWpfApp\\LoginWindow.xaml",
-              "RelativeToolTip": "HelloWpfApp\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T03:36:20.026Z",
+              "WhenOpened": "2025-06-17T03:17:14.331Z",
               "EditorCaption": ""
             }
           ]
