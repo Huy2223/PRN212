@@ -16,11 +16,11 @@ namespace ListWPF
         {
             int x = int.Parse(txtGiaTri.Text);
             dsDuLieu.Add(x);
-            HienThiDanhDanh();
+            HienThiDanhSach();
             txtGiaTri.Text = "";
         }
 
-        void HienThiDanhDanh()
+        void HienThiDanhSach()
         {
             lstDuLieu.Items.Clear();
             for (int i = 0; i < dsDuLieu.Count; i++)
@@ -35,7 +35,7 @@ namespace ListWPF
             int x = int.Parse(txtGiaTriChen.Text);
             int vt = int.Parse(txtViTriChen.Text);
             dsDuLieu.Insert(vt, x);
-            HienThiDanhDanh();
+            HienThiDanhSach();
             txtViTriChen.Text = "";
             txtGiaTriChen.Text = "";
         }
@@ -43,14 +43,14 @@ namespace ListWPF
         private void BtnSapXepTang_Click(object sender, RoutedEventArgs e)
         {
             dsDuLieu.Sort();
-            HienThiDanhDanh();
+            HienThiDanhSach();
         }
 
         private void BtnSapXepGiam_Click(object sender, RoutedEventArgs e)
         {
             dsDuLieu.Sort();
             dsDuLieu.Reverse();
-            HienThiDanhDanh();
+            HienThiDanhSach();
         }
 
         private void BtnXoalPhanTu_Click(object sender, RoutedEventArgs e)
@@ -61,7 +61,7 @@ namespace ListWPF
                 return;
             }
             dsDuLieu.RemoveAt(lstDuLieu.SelectedIndex);
-            HienThiDanhDanh();
+            HienThiDanhSach();
         }
 
         private void BtnXoaNhieuPhanTu_Click(object sender, RoutedEventArgs e)
@@ -83,7 +83,7 @@ namespace ListWPF
         private void BtnXoaToanBoPhanTu_Click(object sender, RoutedEventArgs e)
         {
             dsDuLieu.Clear();
-            HienThiDanhDanh();
+            HienThiDanhSach();
         }
     }
 }
