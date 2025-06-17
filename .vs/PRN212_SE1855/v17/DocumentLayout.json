@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85F922D7-8153-43E9-86C5-A37E51294E65}|CheckBoxControllerEvent\\CheckBoxControllerEvent.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\checkboxcontrollerevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{85F922D7-8153-43E9-86C5-A37E51294E65}|CheckBoxControllerEvent\\CheckBoxControllerEvent.csproj|solutionrelative:checkboxcontrollerevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7B15270C-C025-4435-AD56-FECAF7020721}|RadioButtonControl\\RadioButtonControl.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\radiobuttoncontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B15270C-C025-4435-AD56-FECAF7020721}|RadioButtonControl\\RadioButtonControl.csproj|solutionrelative:radiobuttoncontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F922D7-8153-43E9-86C5-A37E51294E65}|CheckBoxControllerEvent\\CheckBoxControllerEvent.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\checkboxcontrollerevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F922D7-8153-43E9-86C5-A37E51294E65}|CheckBoxControllerEvent\\CheckBoxControllerEvent.csproj|solutionrelative:checkboxcontrollerevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B15270C-C025-4435-AD56-FECAF7020721}|RadioButtonControl\\RadioButtonControl.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\radiobuttoncontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15270C-C025-4435-AD56-FECAF7020721}|RadioButtonControl\\RadioButtonControl.csproj|solutionrelative:radiobuttoncontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,27 +50,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\CheckBoxControllerEvent\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CheckBoxControllerEvent\\MainWindow.xaml",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\CheckBoxControllerEvent\\MainWindow.xaml",
-              "RelativeToolTip": "CheckBoxControllerEvent\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T03:17:14.589Z",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\RadioButtonControl\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RadioButtonControl\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\RadioButtonControl\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RadioButtonControl\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwC4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:35:40.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\CheckBoxControllerEvent\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CheckBoxControllerEvent\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\CheckBoxControllerEvent\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "CheckBoxControllerEvent\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T03:17:14.331Z",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\RadioButtonControl\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RadioButtonControl\\MainWindow.xaml",
+              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\RadioButtonControl\\MainWindow.xaml",
+              "RelativeToolTip": "RadioButtonControl\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T03:25:52.693Z",
               "EditorCaption": ""
             }
           ]
