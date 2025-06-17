@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B26144A4-C0C8-459E-915A-6181A23D724C}|ListWPF\\ListWPF.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\listwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B26144A4-C0C8-459E-915A-6181A23D724C}|ListWPF\\ListWPF.csproj|solutionrelative:listwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26144A4-C0C8-459E-915A-6181A23D724C}|ListWPF\\ListWPF.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\listwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26144A4-C0C8-459E-915A-6181A23D724C}|ListWPF\\ListWPF.csproj|solutionrelative:listwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B15270C-C025-4435-AD56-FECAF7020721}|RadioButtonControl\\RadioButtonControl.csproj|d:\\fptu\\su25\\.net\\prn212_se1855\\radiobuttoncontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7B15270C-C025-4435-AD56-FECAF7020721}|RadioButtonControl\\RadioButtonControl.csproj|solutionrelative:radiobuttoncontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +58,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ListWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ListWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ListWPF\\MainWindow.xaml*",
+              "RelativeToolTip": "ListWPF\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T03:52:28.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ListWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ListWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\ListWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ListWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvz8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:52:28.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\RadioButtonControl\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "RadioButtonControl\\MainWindow.xaml.cs",
               "ToolTip": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\RadioButtonControl\\MainWindow.xaml.cs",
               "RelativeToolTip": "RadioButtonControl\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwDwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwC4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T03:35:40.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\FPTU\\SU25\\.Net\\PRN212_SE1855\\RadioButtonControl\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RadioButtonControl\\MainWindow.xaml",
